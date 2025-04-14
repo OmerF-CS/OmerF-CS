@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Dart (Flutter), Kotlin, HTML, CSS
+- **Languages**: Dart (Flutter)(bacic), Kotlin(basic), HTML, CSS
 - **Tools**: Figma, Git, GitHub, Android Studio, Visual Studio Code
 - **Interests**: Mobile UI/UX, Human-centered design, AI tools, Remote teamwork
 
